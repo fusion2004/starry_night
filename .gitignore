@@ -6,6 +6,9 @@
 
 /.env
 
+/passenger.5000.pid
+/passenger.5000.pid.lock
+
 # Ignore bundler config.
 /.bundle
 
